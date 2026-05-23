@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://surya123sankhla-lang.github.io/supreme-court-jca-typing-test/sitemap.xml
